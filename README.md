@@ -14,11 +14,3 @@ such as Arduino, STM32, Raspberry, FPGA, PLC. Anymore my future career will be o
 🔭 I’m currently working on Machine Learning.
 
 🌱 I’m currently learning Django, OpenCV, DataScience, Data Visualation with Python.
-
-- 📫 How to reach me: 
-
-Linkedin: https://www.linkedin.com/in/recepbalibey/
-
-Facebook: https://www.facebook.com/RecepBL/
-
-Gmail:    recepbalibey@gmail.com

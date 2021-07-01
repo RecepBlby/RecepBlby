@@ -7,8 +7,6 @@
  
 I am Recep. I graduated from Electrical and Electronics Engineering and now currently studying master's degree 
 in ICT Internet and Multimedia Engineering in Italy at University of Padua🏫. 
-Being passionate about my job, I enjoy learning and applying my knowledge. Because of that I started to learn programming. 
-I have learned C,Python and still learning new languages like Java. From my bachelor's degree I experienced many cards 
-such as Arduino, STM32, Raspberry, FPGA, PLC. 
+Being passionate about my job, I enjoy learning and applying my knowledge.  I have learned C and still learning like Python. From my bachelor's degree I experienced many cards such as Arduino, STM32, Raspberry, FPGA, PLC. 
 
-🌱 I am currently learning IoT, Big Data, Web Applications.
+🌱 I am currently learning Networking, Big Data, AWS, Docker.
